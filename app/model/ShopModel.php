@@ -15,6 +15,7 @@ class ShopModel extends Nette\Object {
     
     /*
      * Načíst info o poštovném
+     * jdladlksnakldans
      */
     
     
