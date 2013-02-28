@@ -32,5 +32,9 @@ class ProductModel extends Nette\Object {
     /*
      * Odstanění produktu
      */
+    
+    /*
+     * A tak dále ...
+     */
 
 }
