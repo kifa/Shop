@@ -9,7 +9,7 @@ class ShopModel extends Nette\Object {
 
    /*
     * Načíst informace o obchodu
-    * -název, meta,... 
+    * -název, meta,. a tak dále
     */
     
     
